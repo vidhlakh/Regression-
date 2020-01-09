@@ -1,0 +1,5 @@
+Question 1 and 2 Linear Regression notebook 
+
+Question 3 and 4 Logistic Regression notebook
+
+Question 5 Logistic second part notebook 
